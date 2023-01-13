@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F41832D629716BFD008F1B7F /* CellsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41832D529716BFD008F1B7F /* CellsView.swift */; };
 		F4F265FF296DD95B0049E00D /* VKApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4F265FE296DD95B0049E00D /* VKApp.swift */; };
 		F4F26601296DD95B0049E00D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4F26600296DD95B0049E00D /* ContentView.swift */; };
 		F4F26603296DD9630049E00D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4F26602296DD9630049E00D /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F41832D529716BFD008F1B7F /* CellsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellsView.swift; sourceTree = "<group>"; };
 		F4F265FB296DD95B0049E00D /* VK.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VK.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4F265FE296DD95B0049E00D /* VKApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VKApp.swift; sourceTree = "<group>"; };
 		F4F26600296DD95B0049E00D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				F4F265FE296DD95B0049E00D /* VKApp.swift */,
 				F4F26600296DD95B0049E00D /* ContentView.swift */,
+				F41832D529716BFD008F1B7F /* CellsView.swift */,
 				F4F26602296DD9630049E00D /* Assets.xcassets */,
 				F4F26604296DD9630049E00D /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F4F26601296DD95B0049E00D /* ContentView.swift in Sources */,
+				F41832D629716BFD008F1B7F /* CellsView.swift in Sources */,
 				F4F265FF296DD95B0049E00D /* VKApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
